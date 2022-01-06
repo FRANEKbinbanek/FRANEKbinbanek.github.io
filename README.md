@@ -1,2 +1,1 @@
-https://franekbinbanek.github.io
-Zanim udostępnisz oznacz autora!
+Ta strona się niedługo zmieni.......
