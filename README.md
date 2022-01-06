@@ -1,3 +1,3 @@
 Ta strona się kiedyś zmieni.......
-ale niewiadomo kiedy D:
+ale niewiadomo kiedy
 bo mam mało czasu :'((
