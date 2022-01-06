@@ -1,2 +1,3 @@
 Ta strona się kiedyś zmieni.......
 ale niewiadomo kiedy D:
+bo mam mało czasu :'((
