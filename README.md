@@ -1,3 +1,1 @@
-Ta strona się kiedyś zmieni.......
-ale niewiadomo kiedy
-bo mam mało czasu :'((
+# https://franekbinbanek.github.com
