@@ -1,0 +1,35 @@
+body{
+	background: #222222;
+	color: #CCCCCC;
+	font-size: 45px;
+	font-family: sans-serif;
+	text-align: center;
+
+}
+h1{
+	color: /*#CC0033*/#EEEEEE;
+	font-size: 100px;
+	font-family: Comic Sans MS, Comic Sans;
+	text-align: center;
+	padding: 1;
+}
+h2{
+	color: /*#CC0033*/#EEEEEE;
+	font-size: 100px;
+	font-family: arial;
+	text-align: center;
+}
+
+a{
+	color: #66CCCC;
+	font-size: 45px;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+p2{
+	color: #999999;
+	font-size: 15px;
+	font-family: sans-serif;
+	text-align: left;
+}
